@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=lumber-global
+
+roles 2020-04-16T02:05:38Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add roles and users
+lumberi [roles] 2020-04-16T02:12:44Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add lumberi database
