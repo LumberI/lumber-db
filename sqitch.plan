@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=lumberi
+
+default_permission 2020-04-16T22:08:15Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add default permission for schema
+account [default_permission] 2020-04-16T22:12:15Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add account schema
+user_group_role [account] 2020-04-16T22:16:53Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add account tables
