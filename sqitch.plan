@@ -4,3 +4,7 @@
 default_permission 2020-04-16T22:08:15Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add default permission for schema
 account [default_permission] 2020-04-16T22:12:15Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add account schema
 user_group_role [account] 2020-04-16T22:16:53Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add account tables
+inventory [default_permission] 2020-04-20T00:53:18Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add inventory schema
+lumber_project [inventory] 2020-04-20T00:57:05Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add lumber and project tables
+history [default_permission] 2020-07-19T15:13:18Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add history schema
+activity [history] 2020-07-19T15:15:57Z Thomas Hsieh <Tom@Chungchens-MacBook-Pro.local> # Add activity tables
